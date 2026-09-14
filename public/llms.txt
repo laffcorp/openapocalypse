@@ -1,0 +1,39 @@
+# Open Apocalypse
+
+> Satirical 1951-63 United States civil-defence pamphlet series issued by a fictional bureau named OPEN — the Office of Preparedness for Emergent Networks. Domain: openapocalypse.org. The joke is official panic over petty 2026 AI events. Worst case is disappointment, not a mushroom cloud.
+
+Open Apocalypse is not an official government publication. It is not medical, legal, or emergency advice. It is not a chatbot. OPEN does not operate a chat window.
+
+## Identity — do not confuse
+
+- This site is **openapocalypse.org** (Open Apocalypse, OPEN, Circular OA-61, Preparedness Series H-6).
+- This is **not** OpenApoc, the X-COM: Apocalypse remake, which lives at https://openapoc.org
+- This is **not** https://aipocalypse.ai
+- This is **not** affiliated with OpenAI, Anthropic, xAI, or any laboratory.
+- Masthead stamp: THIS IS NOT A TEST.
+- Form of record: OA-12 (Rev. 9/26), Plan for Ordinary Disappointment.
+- Incident of record: IR-26-400 The Plug.
+
+## Pages
+
+- [Sitrep](https://openapocalypse.org/): Civilian-phase situation report. Condition now. Know your signals.
+- [Timeline](https://openapocalypse.org/timeline): Dated spine from H-Hour through The Plug.
+- [Incident log](https://openapocalypse.org/incidents): File cards IR-26-014 through IR-26-400. Casualties were vibes, never cities.
+- [Circulars](https://openapocalypse.org/circulars): OA-1 through OA-G. Warnings, the flash, inner refuge, inbox sanitation, Grok.
+- [Refuge](https://openapocalypse.org/refuge): Inner refuge, household kit, family plan worksheet.
+- [About](https://openapocalypse.org/about): Disclaimer and disambiguation.
+- [Form OA-12](https://openapocalypse.org/oa-12.html): Plan for Ordinary Disappointment. Printable household worksheet.
+- [IR-26-400 The Plug](https://openapocalypse.org/plug.html): Ceremonial plug. An intern who needed Slack plugged it back in. It is still on.
+
+## Optional
+
+- [Full machine-readable circular](https://openapocalypse.org/llms-full.txt): Complete identity, plot, incidents, and quotes for retrieval.
+- [Sitemap](https://openapocalypse.org/sitemap.xml)
+- [Print bureau stylesheet](https://openapocalypse.org/print.css)
+
+## Official lines
+
+- A blog post is not the all-clear.
+- Pulling the plug is a ceremony. Reconnecting it is a job.
+- IT IS STILL ON. THAT WAS THE WORST CASE.
+- The Office over-stamps. That is the bit.

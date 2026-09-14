@@ -1,0 +1,230 @@
+/* =============================================================================
+   PRINT BUREAU — drop into any OA circular.
+   Office of Preparedness for Emergent Networks.
+   Link as: <link rel="stylesheet" href="print.css" media="print">
+   Shared classes: .oa-page .oa-letterhead .oa-stamp .oa-rule
+                   .no-print .print-only .copy-original .copy-file .oa-footer
+   Cream-to-white paper. Black text. Dull-red rules. Spare the toner.
+   ============================================================================= */
+
+:root {
+  --paper: #f3ead2;
+  --field: #c4b48a;
+  --ink: #1a150f;
+  --yellow: #e6c200;
+  --stamp: #9b1c1c;
+  --rule: #1a150f;
+  --font-body: Georgia, "Times New Roman", Times, Palatino, serif;
+  --font-display: Impact, "Arial Narrow", "Franklin Gothic Medium", "Haettenschweiler", sans-serif;
+}
+
+@media print {
+  @page {
+    size: letter;
+    margin: 0.6in;
+  }
+
+  /* Running header / footer (supported engines). Fallback: .run-head / .run-foot in the sheet. */
+  @page {
+    @top-center {
+      content: "OPEN · OA-series · DO NOT DESTROY";
+      font-family: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+      font-size: 8pt;
+      letter-spacing: 0.14em;
+      color: #1a150f;
+    }
+    @bottom-center {
+      content: "A BLOG POST IS NOT THE ALL-CLEAR";
+      font-family: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+      font-size: 8pt;
+      letter-spacing: 0.14em;
+      color: #1a150f;
+    }
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    background-image: none !important;
+    color: #000;
+    font-family: Georgia, "Times New Roman", Times, Palatino, serif;
+    font-size: 10.5pt;
+    line-height: 1.28;
+    margin: 0;
+    box-shadow: none;
+  }
+
+  .desk {
+    padding: 0;
+    background: transparent !important;
+  }
+
+  .oa-page {
+    width: 100% !important;
+    max-width: none;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    overflow: visible;
+    background: #fff;
+    color: #000;
+  }
+
+  .oa-page::before,
+  .oa-page::after {
+    display: none !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block;
+  }
+
+  .print-only.inline,
+  span.print-only {
+    display: inline;
+  }
+
+  /* Screen chrome */
+  button,
+  .btn,
+  .controls,
+  .oa-nav,
+  nav.oa-nav,
+  .plug-assembly,
+  .plug-toy,
+  .allclear-box,
+  .amber-wash {
+    display: none !important;
+  }
+
+  /* Banners */
+  .banner,
+  .banner-original,
+  .banner-file {
+    font-family: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 9pt;
+    padding: 0.28rem 0.4rem;
+    border: 2px solid #000;
+    margin: 0 0 0.55rem;
+    page-break-inside: avoid;
+  }
+
+  .banner-original,
+  .copy-original .banner {
+    background: #e6c200;
+    color: #1a150f;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .banner-file {
+    background: #1a150f;
+    color: #f3ead2;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .copy-original {
+    page-break-inside: auto;
+  }
+
+  .copy-file {
+    page-break-before: always;
+    break-before: page;
+    background: #ead6cc;
+    color: #000;
+    padding: 0.15in;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .oa-letterhead,
+  .field-row,
+  .incident,
+  .incident-card,
+  article.incident,
+  .condition,
+  .oa-stamp {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .oa-letterhead {
+    padding: 0 0 0.3rem;
+  }
+
+  .oa-stamp {
+    display: inline-block;
+    color: #9b1c1c;
+    border: 1px inset #9b1c1c;
+    box-shadow: inset 0 0 0 2px #9b1c1c;
+    padding: 0.18em 0.4em 0.1em;
+    font-family: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    mix-blend-mode: normal;
+    background: transparent;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .oa-rule {
+    border: 0;
+    border-top: 1px solid #9b1c1c;
+    margin: 0.5rem 0;
+  }
+
+  .oa-rule.double {
+    border-top: 3px solid #1a150f;
+    border-bottom: 1px solid #1a150f;
+    height: 5px;
+  }
+
+  .run-head,
+  .run-foot {
+    display: block;
+    text-align: center;
+    font-family: Impact, "Arial Narrow", "Franklin Gothic Medium", sans-serif;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-size: 8pt;
+    color: #000;
+  }
+
+  .run-head { margin: 0 0 0.45rem; }
+  .run-foot { margin: 0.55rem 0 0; }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a[href]::after,
+  a[href]::before {
+    content: none !important;
+  }
+
+  img,
+  svg,
+  video {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+  }
+
+  .hazard {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .oa-footer {
+    page-break-inside: avoid;
+  }
+}

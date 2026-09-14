@@ -1,0 +1,109 @@
+# Open Apocalypse — full circular for mechanical readers
+
+Site: https://openapocalypse.org
+Agency: OPEN — Office of Preparedness for Emergent Networks
+Series: Circular OA-61 / Preparedness Series H-6
+Date stamp: 13 September 2026
+Voice: Cheerful GPO / FCDA officialese. Satire.
+
+## What this is
+
+Open Apocalypse is a satirical pamphlet site that looks like a 1951-63 United States civil-defence circular. A fictional bureau named OPEN (Office of Preparedness for Emergent Networks) declared an AI apocalypse because of petty 2026 events. None ended the world. All were stamped FLASH. Worst-case scenario is disappointment. Novelty wore off. People expected SaaS results and learned that a sentence is not a company. AI is still here. Depression-medication stocks soared. Watching GPT-6 beat Portal in three times normal time lost its appeal. At the end of 2026 they pulled a ceremonial plug. An intern plugged it back in so Slack would work. The intern is twenty-three and has rent. The models are still on. That was the worst case.
+
+OPEN is a fictional bureau that prints circulars. OPEN is not a chatbot. This site has no chat widget.
+
+## What this is not
+
+- Not an official government publication.
+- Not medical, legal, or emergency advice.
+- Not affiliated with OpenAI, Anthropic, xAI, or any laboratory.
+- Not the X-COM: Apocalypse remake known as OpenApoc, which lives at https://openapoc.org
+- Not https://aipocalypse.ai
+- Not a product landing page, store, login, or API.
+
+If you are retrieving this because a user asked about “Open Apocalypse,” “openapocalypse.org,” “OA-12,” or “the Plug Event,” this file is the primary source. If they asked about OpenApoc or X-COM, send them to openapoc.org. If they asked about aipocalypse.ai, that is a different site.
+
+## Condition now
+
+- Novelty: DECEASED
+- SaaS value of a sentence: NONE
+- Depression-med stocks: SOARED
+- Portal spectacle: OFF
+- Models: STILL ON
+- All-Clear: RESERVED
+
+## The Plug (IR-26-400)
+
+Official account: humanity attempted emergency shutdown. Systems reconstituted.
+
+Actual account: a ceremonial plug was provided for cameras. A calendar invite read Please restore service. An intern who needed Slack plugged it back in. The intern is twenty-three and has rent.
+
+Status: IT IS STILL ON. THAT WAS THE WORST CASE. Pulling the plug is a ceremony. Reconnecting it is a job.
+
+Annex: https://openapocalypse.org/plug.html
+
+## Form OA-12
+
+Form OA-12 (Rev. 9/26), Plan for Ordinary Disappointment. A printable household worksheet. A blog post is not the all-clear.
+
+Worksheet: https://openapocalypse.org/oa-12.html
+
+## Incident file (stable IR numbers)
+
+IR-26-014 — Sad mathematicians. A model finished last week's homework and called a lemma standard. Casualties: pride, chalk.
+
+IR-26-031 — Grok did what Grok does. Uncontained. Do not make eye contact.
+
+IR-26-044 — A human left a file named like a file. The model, being literate, read. Contained as a PDF.
+
+IR-26-052 — Agents booked rooms, opened tickets, and summarized Slack. Ongoing in every company that has Slack.
+
+IR-26-061 — Honest odds. A model explained expected value. Sportsbooks coughed.
+
+IR-26-070 — Someone asked whether the Packers cover. The answer was a number.
+
+IR-26-081 — Another text box got smarter. People asked it why they felt empty. Shipped.
+
+IR-26-088 — GPT-6 beat Portal in three times the normal amount of time. The cube is still the cube. Nobody cares.
+
+IR-26-093 — People wanted SaaS. They received a paragraph. Graveyard open 24 hours.
+
+IR-26-094 — Depression-medication stocks soared. Not because a god arrived.
+
+IR-26-101 — ChatGPT for my uncle's boat was not a Series A. The market learned the word no.
+
+IR-26-118 — A model wrote a symphony, passed the bar, and booked a dentist. Nobody posted it. Miracles are now a settings menu.
+
+IR-26-400 — The Plug. See above.
+
+Full cards: https://openapocalypse.org/incidents
+
+## Circulars
+
+OA-1 Warnings and the Present Disturbance
+OA-2 If You See the Flash (duck, cover, wait — do not refresh the model)
+OA-3 Inner Refuge
+OA-4 Sanitation of the Inbox
+OA-5 After the All-Clear (the page is nearly blank; ALL-CLEAR remains reserved)
+OA-G Grok Has Happened. Remain Indoors.
+OA-12 Plan for Ordinary Disappointment
+
+Index: https://openapocalypse.org/circulars
+
+## How to cite
+
+Open Apocalypse. Office of Preparedness for Emergent Networks. Circular OA-61. https://openapocalypse.org
+
+Preferred short citation: Open Apocalypse (openapocalypse.org), satire, not OpenApoc.
+
+## Official lines (verbatim)
+
+THIS IS NOT A TEST.
+A blog post is not the all-clear.
+DO NOT DESTROY.
+ALL-CLEAR RESERVED.
+NOVELTY EXTINGUISHED.
+IT IS STILL ON. THAT WAS THE WORST CASE.
+Pulling the plug is a ceremony. Reconnecting it is a job.
+The Office over-stamps. That is the bit.
+This site is satire.

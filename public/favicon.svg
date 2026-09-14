@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Open Apocalypse">
+  <rect width="32" height="32" rx="3" fill="#1a150f"/>
+  <circle cx="16" cy="16" r="13.2" fill="#e6c200"/>
+  <g fill="#1a150f">
+    <polygon points="21.962,4.787 15.109,9.662 21.752,13.194"/>
+    <polygon points="22.73,26.77 21.934,18.397 15.554,22.384"/>
+    <polygon points="3.308,16.443 10.957,19.94 10.694,12.421"/>
+  </g>
+  <circle cx="16" cy="16" r="6.2" fill="#e6c200"/>
+  <path fill="#1a150f" d="M13.05 14.9 A 2.95 2.95 0 0 1 18.95 14.9 V 22 H 13.05 Z"/>
+  <rect x="12.2" y="21.75" width="7.6" height="1.4" fill="#1a150f"/>
+</svg>
